@@ -1,0 +1,12 @@
+{
+  "name": "jogo-tiktok-live",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "tiktok-live-connector": "^1.1.0",
+    "ws": "^8.16.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
